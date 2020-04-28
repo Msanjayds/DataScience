@@ -8,11 +8,14 @@
 #### 2. Covariance and Correlation.ipynb - Covraince and correlation explained with examples.
 #### 3. linear-regression-leastsquares.ipynb - Linear regression using least squares explained with an example.
 #### 4. Central Tendency.ipynb - Measure of diffrent central tendencies.
- 
+      
+         
+           
   
-
+  
+   
 > ## Resources realted to AI, ML, Stats, Data Science, Visualization etc.
-
+  
 
 ## Artificial Intelligence related
 
