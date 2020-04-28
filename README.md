@@ -1,7 +1,9 @@
 ---------------------
 > # DataScience Concepts and Other Useful Resources
 ---------------------
- 
+  
+  
+    
 > ## DataScience Concepts
 
 #### 1. BootStraping.ipynb - Bootstraping and confidence interval explained with an example.
@@ -9,11 +11,9 @@
 #### 3. linear-regression-leastsquares.ipynb - Linear regression using least squares explained with an example.
 #### 4. Central Tendency.ipynb - Measure of diffrent central tendencies.
       
-         
+
+
            
-  
-  
-   
 > ## Resources realted to AI, ML, Stats, Data Science, Visualization etc.
   
 
